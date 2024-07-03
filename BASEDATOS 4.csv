@@ -1,4 +1,4 @@
-"Prestamo","N° Clientes","ID","Edad (años)","Ingreso anual","Historial crediticio","Monto del prestamo","Plazo del préstamo (años)","N° de créditos previos","Empleo","Tasa de interes del prestamo (%)"
+"Prestamo","NClientes","ID","Edad_años","Ingreso_anual","HistorialCrediticio","Monto_del _prestamo","Plazo_del_prestamo_años","n_de_creditos previos","Empleo","Tasa_de_interes_del_prestamo"
 "1","1","1000","44"," $ 19,067,897 ","1"," $ 23,455,958 ","5","3","0","8"
 "1","2","1001","59"," $ 33,653,719 ","0"," $ 23,401,867 ","4","1","1","17"
 "1","3","1002","29"," $ 26,337,981 ","0"," $ 32,627,427 ","13","3","1","27"
